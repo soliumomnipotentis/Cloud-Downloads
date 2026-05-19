@@ -1,0 +1,27 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3227",
+  "folder": "YouTube__watch_20260519221552_4d00a5",
+  "base_name": "DONK_vs_m0NESY_(GRAND_FINAL)_PGL_Astana_2026_i0XV7S4cJSE_1080p.mp4",
+  "is_split": true,
+  "part_count": 2,
+  "release_url": "https://github.com/soliumomnipotentis/Cloud-Downloads/releases/tag/co-releases-v1-3227",
+  "files": [
+    {
+      "name": "DONK_vs_m0NESY_.GRAND_FINAL._PGL_Astana_2026_i0XV7S4cJSE_1080p.mp4.part00",
+      "url": "https://github.com/soliumomnipotentis/Cloud-Downloads/releases/download/co-releases-v1-3227/DONK_vs_m0NESY_.GRAND_FINAL._PGL_Astana_2026_i0XV7S4cJSE_1080p.mp4.part00",
+      "api_url": "https://api.github.com/repos/soliumomnipotentis/Cloud-Downloads/releases/assets/424567938",
+      "id": 424567938,
+      "size": 1232645486,
+      "download_count": 0
+    },
+    {
+      "name": "DONK_vs_m0NESY_.GRAND_FINAL._PGL_Astana_2026_i0XV7S4cJSE_1080p.mp4.part01",
+      "url": "https://github.com/soliumomnipotentis/Cloud-Downloads/releases/download/co-releases-v1-3227/DONK_vs_m0NESY_.GRAND_FINAL._PGL_Astana_2026_i0XV7S4cJSE_1080p.mp4.part01",
+      "api_url": "https://api.github.com/repos/soliumomnipotentis/Cloud-Downloads/releases/assets/424568227",
+      "id": 424568227,
+      "size": 1232645485,
+      "download_count": 0
+    }
+  ]
+}
